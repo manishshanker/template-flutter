@@ -7,19 +7,6 @@ Click the button below to start a new development environment:
 
 [![Open in Gitpod](https://gitpod.io/button/open-in-gitpod.svg)](https://gitpod.io/#https://github.com/gitpod-io/template-flutter)
 
-## Get Started With Your Own Project
-
-### A new project
-
-Click the above "Open in Gitpod" button to start a new workspace. Once you're ready to push your first code changes, Gitpod will guide you to fork this project so you own it.
-
-Start here - https://docs.flutter.dev/get-started/test-drive
-
-### An existing project
-
-Copy and commit the [`.gitpod.yml`](./.gitpod.yml) and [`.gitpod.Dockerfile`](./.gitpod.Dockerfile) to your existing project to have the same configuration of this template. To learn more, please see the [Getting Started](https://www.gitpod.io/docs/getting-started) documentation.
-
-
 
 # Animation Samples
 Sample apps that showcase Flutter's animation features
@@ -77,3 +64,17 @@ Other uses-cases and examples
 - [Flutter cookbook - Animations](https://flutter.dev/docs/cookbook/animation)
 - [Animations tutorial](https://flutter.dev/docs/development/ui/animations/tutorial)
 - [Implicit animation codelab](https://flutter.dev/docs/codelabs/implicit-animations)
+
+
+------------
+
+### A new project
+Click the above "Open in Gitpod" button to start a new workspace. Once you're ready to push your first code changes, Gitpod will guide you to fork this project so you own it.
+https://github.com/gitpod-samples/template-flutter
+Start here - https://docs.flutter.dev/get-started/test-drive
+Try https://github.com/flutter/samples
+Check instruction on using Appetize to run application on mobile using browser: https://appetize.io
+
+### An existing project
+Copy and commit the [`.gitpod.yml`](./.gitpod.yml) and [`.gitpod.Dockerfile`](./.gitpod.Dockerfile) to your existing project to have the same configuration of this template. To learn more, please see the [Getting Started](https://www.gitpod.io/docs/getting-started) documentation.
+
